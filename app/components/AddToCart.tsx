@@ -90,6 +90,7 @@ export default function AddToCart({
       </div>
 
       <button
+        id="addToCart"
         onClick={() => addToCart()}
         className="px-4 py-2 bg-sky-600 text-white rounded-md hover:bg-sky-700"
       >
