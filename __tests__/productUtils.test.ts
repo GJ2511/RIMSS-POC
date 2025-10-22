@@ -1,4 +1,4 @@
-// tests/productUtils.test.ts
+// __tests__/productUtils.test.ts
 import { describe, it, expect } from "vitest";
 import { enrichProduct, COLORS } from "../lib/productUtils";
 
